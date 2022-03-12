@@ -1,6 +1,6 @@
-# first_app
+# Praktikum 1 PAB
 
-A new Flutter project.
+Tugas untuk memenuhi Praktikum 1 PAB
 
 ## Getting Started
 
